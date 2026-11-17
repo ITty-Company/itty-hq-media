@@ -1,0 +1,14 @@
+Карточка клиента — Cafetaria D'n Bebbes (исправленная; в первой карточке поля пустые)
+
+Ниша: cafetaria / friet, snacks, burgers
+Адрес: Van Heeswijkstraat 98, 5171 KL Kaatsheuvel (рядом Efteling)
+Google Maps: https://www.google.com/maps/search/?api=1&query=Cafetaria+D'n+Bebbes+Van+Heeswijkstraat+98+Kaatsheuvel
+Телефон: 0416 279 646
+WhatsApp / Email / Instagram / Facebook: не найдены (публично нет)
+Их сайт сейчас: нет
+Где нашли: OpenStreetMap; рейтинг Google 4,4 (232) через Wanderlog; KvK с 1993
+Часы (Google via Wanderlog): пн выходной; вт–чт и вс 16–21; пт–сб 12–14 и 16–21
+
+Что сказать: 30+ лет в Kaatsheuvel и 4,4★ на Google, но своего сайта нет — некоторые гиды показывают «gesloten» или неверные часы, туристы Efteling не находят вас. Сделали демо: история frietje от картошки до кулька, меню-разделы (friet, snacks, burgers), живой статус «nu open?», кнопки «Bel» и «Route». Цены и фото подставим ваши (сейчас AI-картинки с пометкой Voorbeeldbeeld).
+
+Демо: sites/dn-bebbes (+ dn-bebbes.zip, dn-bebbes-demo.mp4), GitHub: ITty-Company/site-dn-bebbes

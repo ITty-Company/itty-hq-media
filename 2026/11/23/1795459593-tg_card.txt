@@ -1,0 +1,11 @@
+Карточка лида (дополнение — deliver.py не нашёл лид по slug): cafe-de-paris-tilburg
+Название: Café de Paris
+Ниша: café (OSM amenity:cafe)
+Адрес: Emmastraat 1b, 5038 WB Tilburg (центр, ~70 м от Paleisring)
+Телефон: +31 13 536 9333 (OSM)
+Email / Instagram / Facebook: не найдены
+Их сайт сейчас: нет
+KvK: 18032817, Active (OpenCorporates); Non-Mailing-Indicator — не слать незапрошенную почту на адрес
+Google Maps: https://www.google.com/maps/search/?api=1&query=51.5558562,5.0899447
+GitHub: https://github.com/ITty-Company/site-cafe-de-paris-tilburg
+Критик: 9.1/10
